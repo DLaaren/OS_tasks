@@ -2,13 +2,13 @@ py-скрипты AI generated -- возможны некорректные те
 
 Для генерации входных данных выполните:
 
-python3 generate.py --seed 42
+python3 generate.py
 
 ---
 
 Для валидации ответов выполните:
 
-python3 validate.py student_42/
+python3 check.py
 
 ---
 
