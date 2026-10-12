@@ -1,0 +1,14 @@
+# Built binaries
+*.o
+*.a
+*.so
+
+# Coredumps
+core
+core.*
+*core.*
+vgcore.*
+
+# Build leftovers
+*.d
+.deps/
