@@ -92,6 +92,12 @@ SPAWN_COORDS="274 67 -249"
 ./ban_manager.sh format banlist.txt
 ./ban_manager.sh add "Herobrine 01:01:2025 cheating"
 ./ban_manager.sh add "Herobrine" "01:01:2025" "cheating"
+
+TODO:
+2025:02:01
+change format of time
+
+
 ./ban_manager.sh info Herobrine                       -> (stdout) "Herobrine 01:01:2025 cheating"
 ./ban_manager.sh remove Herobrine
 ./ban_manager.sh sort --name sorted.txt
